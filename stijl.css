@@ -1,0 +1,148 @@
+header {
+    text-align: center;
+    background-color: #eeff07;
+    color: black;
+    width: 100%;
+    height: 50px;
+}
+
+body {
+	/* we plaatsen  de webpagina in het midden van het browservenster*/
+	width: 955px;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Times New Roman', Times, serif;
+	background: #05f7e250;
+}
+
+h2 {
+	color: #000;
+}
+
+#kop {
+	/* opmaak structuurelement <header> */
+	font-size: 2em;
+	font-weight: bold;
+	background: #BFFFFF;
+	width: 955px;
+	height: 100px;
+}
+
+#kop table {
+	width: 955px;
+	border: 0px;
+}
+#navigatie {
+	/* opmaak structuurelement <nav> (de navigatiebalk) */
+	width: 955px;
+	background: #eeff07;
+	font-size: 1.2em;
+	height: 30px;
+}
+
+#navigatie ul {
+	/* opmaak opsommingslijst in de navigatiebalk */
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#navigatie li {
+	/* opmaak opsommingen in de navigatiebalk */
+	margin: 0px;
+	float: left;
+}
+#navigatie a:link, #navigatie a:visited {
+        /* opmaak standaard hyperlink en bezochte hyprerlink */
+        color: #FFF;
+        display: block;
+        height: 20px;
+        padding: 5px 10px;
+        text-decoration: none;
+    }
+    
+    #navigatie a:hover, #navigatie a:active {
+        /* opmaak hover hyperlink en active hyperlink */
+        background: #00468C;
+        color: #EEE;
+    }
+#table {
+    margin: auto;
+	border: 5px solid red;
+}
+#td{
+    border: 3px solid black;
+    width: 300px;
+    height: 150px;
+}
+footer {
+    background-color: #91fc05;
+    color: black;
+    width: 100%;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #91fc05;
+    color: black;
+    width: 100%;
+    height: 50px;
+}
